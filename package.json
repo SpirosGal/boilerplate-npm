@@ -7,6 +7,7 @@
 	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"dependencies": {
 		"package-name": "version",
+		"package": "MAJOR.MINOR.PATCH",
   		"express": "4.14.0",
 		"@freecodecamp/example": "1.2.13" 
 	},
