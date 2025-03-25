@@ -2,7 +2,8 @@
 	"author": "Spiros Galeros",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"license": "MIT",
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
